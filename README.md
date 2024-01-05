@@ -1,6 +1,6 @@
 # Suggesting-Best-Courses-using-Sentiment-Analysis
 
- ## Model files link
+ ## Model files links
  <pre>
  https://www.mediafire.com/file/1xyj8geqfhwqurj/model.pkl/file
  https://www.mediafire.com/file/c5qcusvf96ckg14/vector.pkl/file
